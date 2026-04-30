@@ -220,20 +220,6 @@ All users created with:
 
 ---
 
-## Repository Structure
-
-```
-aws-iam-project/
-├── README.md
-├── policies/
-│   ├── s3-hr-readwrite.json
-│   ├── s3-finance-readwrite.json
-│   ├── s3-eng-fullaccess.json
-│   └── force-mfa-policy.json
-```
-
----
-
 ## Tools & Skills Demonstrated
 
 `AWS IAM` `S3` `CloudTrail` `Least Privilege` `MFA Enforcement` `Group-Based Access Control` `Custom IAM Policies` `JSON Policy Language` `Cloud Security` `Identity & Access Management`
